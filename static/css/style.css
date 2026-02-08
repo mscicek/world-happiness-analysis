@@ -1,0 +1,10 @@
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+#chartdiv {
+    width: 100%;
+    height: 600px; /* Harita yüksekliği */
+    background-color: #ffffff; /* Beyaz arka plan (Light Theme) */
+    border-radius: 8px;
+}
