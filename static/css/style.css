@@ -4,7 +4,7 @@ body {
 
 #chartdiv {
     width: 100%;
-    height: 600px; /* Harita yüksekliği */
-    background-color: #ffffff; /* Beyaz arka plan (Light Theme) */
+    height: 600px; 
+    background-color: #ffffff;
     border-radius: 8px;
 }
